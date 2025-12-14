@@ -1,0 +1,4 @@
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg">
+  <rect x="2" y="2" width="124" height="124" rx="14" fill="#1a1a2e" stroke="#4a9eff" stroke-width="4"/>
+  <text x="64" y="78" font-family="sans-serif" font-size="48" font-weight="bold" fill="#4a9eff" text-anchor="middle">LU</text>
+</svg>
